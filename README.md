@@ -46,9 +46,9 @@ love .
 
 
 # 📷 Screenshots
-![Shop Upgrades](screenshots/shop.png)
-![Level Up](screenshots/levelup.png)
-![Combat Strategy](screenshots/combat.png)
+![Shop Upgrades](screenshots/shop.PNG)
+![Level Up](screenshots/levelup.PNG)
+![Combat Strategy](screenshots/combat.PNG)
 ![Gameplay Demo](screenshots/demo.gif)
 
 
