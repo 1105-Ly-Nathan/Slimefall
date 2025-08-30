@@ -46,7 +46,10 @@ love .
 
 
 # 📷 Screenshots
-(link here)
+![Shop Upgrades](screenshots/shop.png)
+![Level Up](screenshots/levelup.png)
+![Combat Strategy](screenshots/combat.png)
+![Gameplay Demo](screenshots/demo.gif)
 
 
 # 🔧 Technologies
