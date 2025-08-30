@@ -1,7 +1,7 @@
-# Slime Attack 🎮
+# Slimefall 🎮
 
 ## 📌 Description
-Slime Attack is a 2D side-scrolling action RPG built in Lua with the LÖVE 2D framework.
+Slimefall is a 2D side-scrolling action RPG built in Lua with the LÖVE 2D framework.
 Players battle waves of slime monsters, collect coins, and purchase upgrades to survive as long as possible.
 
 This project was developed as my final project for Harvard’s CS50x, showcasing game mechanics such as combat, enemy AI, upgrades, and save/load progression.
