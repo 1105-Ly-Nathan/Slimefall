@@ -47,16 +47,17 @@ love .
 
 # Screenshots
 ![Gameplay Demo](screenshots/demo.gif)
-**Gameplay Demo**
+*Gameplay Demo*
 
 ![Combat Strategy](screenshots/combat.PNG)
-**Combat**
+*Combat*
 
 ![Shop Upgrades](screenshots/shop.PNG)
-**Upgrade stats in the shop**
+*Upgrade stats in the shop*
 
 ![Level Up](screenshots/levelup.PNG)
-**Gain experience and level up by defeating mobs**
+*Gain experience and level up by defeating mobs*
+
 
 # Technologies
 - **Language**: Lua
