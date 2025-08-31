@@ -46,22 +46,22 @@ love .
 
 
 # Screenshots
-![Gameplay Demo](screenshots/demo.gif)
+![Gameplay Demo](screenshots/demo.gif)  
 *Gameplay Demo*
 
 &nbsp;
 
-![Combat Strategy](screenshots/combat.PNG)
+![Combat Strategy](screenshots/combat.PNG)  
 *Combat*
 
 &nbsp;
 
-![Shop Upgrades](screenshots/shop.PNG)
+![Shop Upgrades](screenshots/shop.PNG)  
 *Upgrade stats in the shop*
 
 &nbsp;
 
-![Level Up](screenshots/levelup.PNG)
+![Level Up](screenshots/levelup.PNG)  
 *Gain experience and level up by defeating mobs*
 
 &nbsp;
