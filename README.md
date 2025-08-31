@@ -1,6 +1,6 @@
-# Slimefall 🎮
+# Slimefall 
 
-## 📌 Description
+## Description
 Slimefall is a 2D side-scrolling action RPG built in Lua with the LÖVE 2D framework.
 Players battle waves of slime monsters, collect coins, and purchase upgrades to survive as long as possible.
 
@@ -9,7 +9,7 @@ This project was developed as my final project for Harvard’s CS50x, showcasing
 Video Demo: [Watch on YouTube](https://youtu.be/RKlED6n1U-8)
 
 
-## ✨ Features
+## Features
 - Player movement, combat, and jumping mechanics
 
 - Enemy AI with collision and attack interactions
@@ -23,7 +23,7 @@ Video Demo: [Watch on YouTube](https://youtu.be/RKlED6n1U-8)
 - Background music and sound effects for immersive gameplay
 
 
-# 🕹️ How to Play
+# How to Play
 **1.** Clone this repository:
 ```bash
 git clone https://github.com/nathanjly/slime-attack.git
@@ -45,15 +45,14 @@ love .
 - **Enter** → Confirm menu selections
 
 
-# 📷 Screenshots
+# Screenshots
 ![Gameplay Demo](screenshots/demo.gif)
 ![Combat Strategy](screenshots/combat.PNG)
 ![Shop Upgrades](screenshots/shop.PNG)
 ![Level Up](screenshots/levelup.PNG)
 
 
-
-# 🔧 Technologies
+# Technologies
 - **Language**: Lua
 - **Framework**: LÖVE 2D
 - **Libraries**:
@@ -65,7 +64,7 @@ love .
 - **Tools**: Tiled (map editor)
 
 
-# 🚀 Future Improvements
+# Future Improvements
 - Add critical strike mechanics
 - Expand shop upgrades and item variety
 - Multiple maps and quest system
@@ -74,7 +73,7 @@ love .
 - Custom controls
 
 
-# 👤 Author
+# Author
 **Nathan Ly**
 - Github: github.com/nathanjly
 - Email: nathanjly.njl@gmail.com
